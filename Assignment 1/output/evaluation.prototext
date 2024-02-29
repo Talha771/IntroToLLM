@@ -1,228 +1,252 @@
 measure {
  key: "F1"
- value: "0.18565993486656684"
+ value: "0.1619145366405842"
 }
 measure {
  key: "Precision"
- value: "0.15400517885128007"
+ value: "0.15076157559181208"
 }
 measure {
  key: "Recall"
- value: "0.23369425958560086"
+ value: "0.17484945850262804"
 }
 measure {
  key: "Precision Self-direction: thought"
- value: "0.1"
+ value: "0.10606060606060606"
 }
 measure {
  key: "Recall Self-direction: thought"
- value: "0.3333333333333333"
+ value: "0.1958041958041958"
 }
 measure {
  key: "F1 Self-direction: thought"
- value: "0.15384615384615383"
+ value: "0.1375921375921376"
 }
 measure {
  key: "Precision Self-direction: action"
- value: "0.15151515151515152"
+ value: "0.2337962962962963"
 }
 measure {
  key: "Recall Self-direction: action"
- value: "0.45454545454545453"
+ value: "0.25831202046035806"
 }
 measure {
  key: "F1 Self-direction: action"
- value: "0.22727272727272727"
+ value: "0.2454434993924666"
+}
+measure {
+ key: "Precision Stimulation"
+ value: "0.02197802197802198"
+}
+measure {
+ key: "Recall Stimulation"
+ value: "0.025974025974025976"
+}
+measure {
+ key: "F1 Stimulation"
+ value: "0.02380952380952381"
 }
 measure {
  key: "Precision Hedonism"
- value: "0.0"
+ value: "0.019230769230769232"
 }
 measure {
  key: "Recall Hedonism"
- value: "0.0"
+ value: "0.038461538461538464"
 }
 measure {
  key: "F1 Hedonism"
- value: "0"
+ value: "0.025641025641025644"
 }
 measure {
  key: "Precision Achievement"
- value: "0.4583333333333333"
+ value: "0.2534246575342466"
 }
 measure {
  key: "Recall Achievement"
- value: "0.28205128205128205"
+ value: "0.26941747572815533"
 }
 measure {
  key: "F1 Achievement"
- value: "0.34920634920634913"
+ value: "0.2611764705882353"
 }
 measure {
  key: "Precision Power: dominance"
- value: "0.0"
+ value: "0.05517241379310345"
 }
 measure {
  key: "Recall Power: dominance"
- value: "0.0"
+ value: "0.07407407407407407"
 }
 measure {
  key: "F1 Power: dominance"
- value: "0"
+ value: "0.06324110671936758"
 }
 measure {
  key: "Precision Power: resources"
- value: "0.17647058823529413"
+ value: "0.09411764705882353"
 }
 measure {
  key: "Recall Power: resources"
- value: "0.15789473684210525"
+ value: "0.1523809523809524"
 }
 measure {
  key: "F1 Power: resources"
- value: "0.16666666666666669"
+ value: "0.11636363636363636"
 }
 measure {
  key: "Precision Face"
- value: "0.0"
+ value: "0.075"
 }
 measure {
  key: "Recall Face"
- value: "0.0"
+ value: "0.09375"
 }
 measure {
  key: "F1 Face"
- value: "0"
+ value: "0.08333333333333331"
 }
 measure {
  key: "Precision Security: personal"
- value: "0.3488372093023256"
+ value: "0.31900826446280994"
 }
 measure {
  key: "Recall Security: personal"
- value: "0.5"
+ value: "0.35940409683426444"
 }
 measure {
  key: "F1 Security: personal"
- value: "0.4109589041095891"
+ value: "0.3380035026269702"
 }
 measure {
  key: "Precision Security: societal"
- value: "0.375"
+ value: "0.25"
 }
 measure {
  key: "Recall Security: societal"
- value: "0.3870967741935484"
+ value: "0.3148614609571788"
 }
 measure {
  key: "F1 Security: societal"
- value: "0.38095238095238093"
+ value: "0.2787068004459309"
+}
+measure {
+ key: "Precision Tradition"
+ value: "0.08542713567839195"
+}
+measure {
+ key: "Recall Tradition"
+ value: "0.10119047619047619"
+}
+measure {
+ key: "F1 Tradition"
+ value: "0.09264305177111716"
 }
 measure {
  key: "Precision Conformity: rules"
- value: "0.23333333333333334"
+ value: "0.15954415954415954"
 }
 measure {
  key: "Recall Conformity: rules"
- value: "0.4666666666666667"
+ value: "0.1951219512195122"
 }
 measure {
  key: "F1 Conformity: rules"
- value: "0.31111111111111117"
+ value: "0.17554858934169282"
 }
 measure {
  key: "Precision Conformity: interpersonal"
- value: "0.0"
+ value: "0.06557377049180328"
 }
 measure {
  key: "Recall Conformity: interpersonal"
- value: "0.0"
+ value: "0.07547169811320754"
 }
 measure {
  key: "F1 Conformity: interpersonal"
- value: "0"
+ value: "0.07017543859649124"
 }
 measure {
  key: "Precision Humility"
- value: "0.125"
+ value: "0.05426356589147287"
 }
 measure {
  key: "Recall Humility"
- value: "0.2"
+ value: "0.0945945945945946"
 }
 measure {
  key: "F1 Humility"
- value: "0.15384615384615385"
+ value: "0.0689655172413793"
 }
 measure {
  key: "Precision Benevolence: caring"
- value: "0.1111111111111111"
+ value: "0.24109014675052412"
 }
 measure {
  key: "Recall Benevolence: caring"
- value: "0.25"
+ value: "0.34226190476190477"
 }
 measure {
  key: "F1 Benevolence: caring"
- value: "0.15384615384615383"
+ value: "0.28290282902829034"
 }
 measure {
  key: "Precision Benevolence: dependability"
- value: "0.05555555555555555"
+ value: "0.0944206008583691"
 }
 measure {
  key: "Recall Benevolence: dependability"
- value: "0.3333333333333333"
+ value: "0.13496932515337423"
 }
 measure {
  key: "F1 Benevolence: dependability"
- value: "0.09523809523809525"
+ value: "0.1111111111111111"
 }
 measure {
  key: "Precision Universalism: concern"
- value: "0.2702702702702703"
+ value: "0.35456110154905335"
 }
 measure {
  key: "Recall Universalism: concern"
- value: "0.47619047619047616"
+ value: "0.35034013605442177"
 }
 measure {
  key: "F1 Universalism: concern"
- value: "0.3448275862068966"
+ value: "0.3524379811804962"
 }
 measure {
  key: "Precision Universalism: nature"
- value: "0.2"
+ value: "0.10576923076923077"
 }
 measure {
  key: "Recall Universalism: nature"
- value: "0.25"
+ value: "0.0763888888888889"
 }
 measure {
  key: "F1 Universalism: nature"
- value: "0.22222222222222224"
+ value: "0.08870967741935484"
 }
 measure {
  key: "Precision Universalism: tolerance"
- value: "0.0"
+ value: "0.14107883817427386"
 }
 measure {
  key: "Recall Universalism: tolerance"
- value: "0.0"
+ value: "0.17435897435897435"
 }
 measure {
  key: "F1 Universalism: tolerance"
- value: "0"
+ value: "0.1559633027522936"
 }
 measure {
  key: "Precision Universalism: objectivity"
- value: "0.16666666666666666"
+ value: "0.2857142857142857"
 }
 measure {
  key: "Recall Universalism: objectivity"
- value: "0.11538461538461539"
+ value: "0.16985138004246284"
 }
 measure {
  key: "F1 Universalism: objectivity"
- value: "0.13636363636363638"
+ value: "0.21304926764314247"
 }
